@@ -30,4 +30,4 @@ namespace Schedule.Tests.ValidatorTests
             Assert.IsFalse(result);
         }
     }
-}
+} 
