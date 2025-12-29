@@ -24,4 +24,4 @@ namespace Schedule.Core.Services
             return true;
         }
     }
-}
+} 
