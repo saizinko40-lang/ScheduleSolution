@@ -44,4 +44,4 @@ namespace Schedule.Tests.SchedulerTests
             Assert.AreEqual("PI-21", schedule[0].GroupName);
         }
     }
-}
+} 
